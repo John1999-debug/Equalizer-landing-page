@@ -24,21 +24,21 @@ header img{
 .item-2{
     padding: 0px;
     margin: -255px 120px;
-    width: 800px;
+    width: 900px;
     height: 306px;
 }
 
 .item-2 h1{
     font-weight: bold;
-    font-size: 71px;
+    font-size: 75px;
     font-family: 'IBM Plex Sans';
     line-height: 69px;
 }
 
 .item-2 p{
     padding-right: 165px;
-    font: 600px;
-    font-size: 17px;
+    font-weight: 400;
+    font-size: 19px;
     font-family: 'IBM Plex Sans';
     line-height: 24px;
 }
@@ -53,11 +53,12 @@ body{
 }
 
 .spacer{
-    margin-top: 280px;
+    margin-top: 353px;
 }
 
 footer{
     display: flex;
+    margin-top: -90px;
 }
 
 footer img{
@@ -69,9 +70,9 @@ footer img{
 
 .fa{
     margin-top: -10px;
-    width: 438px;
-    margin-left: 70px;
-    font-size: 14px;
+    width: 440px;
+    margin-left: 90px;
+    font-size: 15px;
     font-family: 'IBM Plex Sans';
     font-weight: 500px;
     line-height: 20px;
@@ -116,15 +117,15 @@ footer img{
     width: auto;
     height: auto;
     margin-left: 67px;
-    margin-top: -120px;
+    margin-top: -172px;
     margin-bottom: 90px;
 }
 
 .orange{
     position: relative;
-    top: 85px;
-    left: 25px;
-    width: 420px;
+    top: 134px;
+    left: 58px;
+    width: 380px;
     height: 570px;
     margin-left: 100px;
     background-color: #FA7453;
@@ -137,22 +138,25 @@ footer img{
 .header-org{
     margin: 60px 50px;
     margin-bottom: 20px;
-    font-size: 30px;
+    font-size: 34px;
     font-weight: 700;
+    color: white;
 }
 
 .orange p{
     margin: 0px 50px;
-    font-size: 16px;
-    line-height: 25px;
+    font-size: 17px;
+    line-height: 26px;
     font-weight: 300;
+    color: white;
 }
 
 .orange h5{
     margin: 0px 50px;
     margin-top: 30px;
-    font-size: 16px;
+    font-size: 17px;
     font-weight: 300;
+    color: white;
 }
 
 .btn{
